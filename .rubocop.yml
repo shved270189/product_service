@@ -1,0 +1,13 @@
+AllCops:
+  Include:
+    - '**/Rakefile'
+  Exclude:
+    - 'bin/**/*'
+    - 'db/schema.rb'
+    - 'vendor/**/*'
+
+Style/HashSyntax:
+  Enabled: false
+
+Style/Documentation:
+  Enabled: false
