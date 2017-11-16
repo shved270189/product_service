@@ -1,7 +1,7 @@
 ### Run code locally and generate rubocop report
 
 ```
-$ git clone git@github.com:petrokoriakin/product_service.git
+$ git clone git@github.com:shved270189/product_service.git
 $ cd product_service/
 $ bundle
 
